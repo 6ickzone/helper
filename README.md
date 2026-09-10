@@ -1,4 +1,12 @@
 #  Tools Helper | YamiRoot1337
+<p>
+<a href="[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)"><img src="[https://img.shields.io/badge/License-MIT-black.svg?style=flat-square](https://img.shields.io/badge/License-MIT-black.svg?style=flat-square)" alt="License"></a>
+<img src="[https://img.shields.io/badge/Security-Educational%20Research-red.svg?style=flat-square](https://img.shields.io/badge/Security-Educational%20Research-red.svg?style=flat-square)" alt="Research">
+<img src="[https://img.shields.io/badge/PHP-7.x%20%7C%208.x-lightgrey.svg?style=flat-square](https://img.shields.io/badge/PHP-7.x%20%7C%208.x-lightgrey.svg?style=flat-square)" alt="PHP">
+<img src="[https://img.shields.io/badge/Modules-6%20Tools-blue.svg?style=flat-square&color=111111](https://img.shields.io/badge/Modules-6%20Tools-blue.svg?style=flat-square&color=111111)" alt="Modules">
+<img src="[https://img.shields.io/badge/Encryption-KCK%20Poly-orange.svg?style=flat-square&color=D60000](https://img.shields.io/badge/Encryption-KCK%20Poly-orange.svg?style=flat-square&color=D60000)" alt="Encryption">
+<img src="[https://img.shields.io/badge/UI-Monochrome%20Brutalist-lightgrey.svg?style=flat-square](https://img.shields.io/badge/UI-Monochrome%20Brutalist-lightgrey.svg?style=flat-square)" alt="UI">
+</p>
 
 > **Disclaimer:** This dedicated suite of tools is intended strictly for **Cybersecurity Educational Research** and post-exploitation testing in controlled lab environments.
 
