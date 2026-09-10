@@ -51,6 +51,17 @@
 | **Core Features** | Connection Tester, **SMTP Sender with Authentication (AUTH LOGIN)**, and Mass Mail **Delivery** capability. |
 | **Diagnostics** | Basic **Spam Reputation Check** (MX Record & DNSBL). |
 
+### 6. YamiRoot | Loader
+**(Remote Payload Loader & Deployment Panel)**
+
+| Detail | Description |
+| :--- | :--- |
+| **Function** | Lightweight remote loader panel designed for ethical post-exploitation research, providing multiple delivery methods to fetch and deploy PHP payloads into target lab environments. |
+| **Core Features** | 7 loading methods: **cURL**, **cURLMan** (obfuscated), **TMP** (temp file), **Cache** (auto-clean), **cURLv2**, **WGET** (shell), and **Socket** (SSL). |
+| **Panel** | Built-in **CMD Panel** with quick actions (whoami, uname -a, ls -la) and **Multi-File Uploader** with drag-and-drop support. |
+| **Encryption** | Optional **KCK Polymorphic Encryption** for secure upload mode — randomized class names, obfuscated payload, and XOR+Gzip multi-layer encoding. |
+| **Interface** | Clean monochrome UI with `?m=` mode switching for fast deployment. |
+
 ---
 
 ##  Connect
