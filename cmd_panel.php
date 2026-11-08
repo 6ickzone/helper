@@ -194,7 +194,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['cmd'])) {
   </div>
 
   <footer class="site-footer">
-    <p>Powered by <a href="https://0x6ick.my.id" target="_blank" rel="noopener noreferrer">6ickzone</a> ヤミRoot</p>
+    <p>Powered by <a href="https://github.com/6ickzone" target="_blank" rel="noopener noreferrer">6ickzone</a> ヤミRoot</p>
   </footer>
   
   <script>
